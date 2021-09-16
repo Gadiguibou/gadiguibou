@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can check out my personal website at https://www.gabriellacroix.com.
+
 <!--
 **Gadiguibou/gadiguibou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
